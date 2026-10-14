@@ -1,0 +1,6 @@
+{
+  "name": "Lobeble Ta'lim Markazi",
+  "description": "Lobeble — zamonaviy ta'lim markazi platformasi: kurslar katalogi, ustozlar profili, topshiriq yuborish tizimi va SMS xabarnomalar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
